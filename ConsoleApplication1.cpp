@@ -10,6 +10,7 @@ int main()
     std::cout << "Hello! World!!\n";
 
     std::cout << "Hello! Player!!\n";
+    std::cout << "頼むできてくれ\n";
 
 
 }
