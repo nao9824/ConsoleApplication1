@@ -13,7 +13,7 @@ int main()
 
     std::cout << "マージお願いします！！\n";
 
-    std::cout << "頼むできてくれ\n";
+    std::cout << "プルリクエストの作成\n";
 
 
 
