@@ -15,6 +15,7 @@ int main()
 
     std::cout << "プルリクエストの作成\n";
 
+    std::cout << "やばいミスった\n";
 
 
 }
