@@ -11,7 +11,7 @@ int main()
 
     std::cout << "Hello! Player!!\n";
 
-    std::cout << "マージお願いします！！\n";
+    std::cout << "マージしないで！！\n";
 
     std::cout << "プルリクエストの作成\n";
 
