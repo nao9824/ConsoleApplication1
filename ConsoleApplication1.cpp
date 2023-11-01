@@ -21,6 +21,7 @@ int main()
     std::cout << "アナコンダに絞められたい\n";
     std::cout << "アナコンダに食われたい\n";
     std::cout << "アナコンダって可愛いよね\n";
+    std::cout << "はにゃ\n";
 
     std::cout << "えまじたすけて\n";
 
